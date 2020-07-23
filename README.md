@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there, I'm Wilton Zanin 👾 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilton-zanin-22597a144/)](https://www.linkedin.com/in/wilton-zanin-22597a144/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltonczanin@gmail.com)](mailto:wiltonczanin@gmail.com)
+
+- 🌱 I’m currently learning React | React Native | C# | JS | TS
+- :mortar_board: I'm currently studying software engineering
 
 <!--
 **wiltonzanin/wiltonzanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
